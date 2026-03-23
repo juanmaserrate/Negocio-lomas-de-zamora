@@ -1,0 +1,1493 @@
+{
+  "__depot__": {
+    "lat": -34.756288,
+    "lon": -58.4389607,
+    "display": "Ombú, Parque Barón, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "Ombú 1269, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:24 de Mayo 649": {
+    "lat": -34.7657711,
+    "lon": -58.4203864,
+    "display": "649, 24 de Mayo, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "24 de Mayo 649, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:9 de Febrero 390": {
+    "lat": -34.7939752,
+    "lon": -58.4348671,
+    "display": "Escuela de Educación Primaria 71, 390, 9 de Febrero, Llavallol, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "9 de Febrero 390, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:A. Cap. Giaccino 3000": {
+    "lat": -34.741869,
+    "lon": -58.4765483,
+    "display": "Capitán de Fragata Pedro Eduardo Giacchino, B1839FDK, Buenos Aires, Argentina",
+    "query": "A. Cap. Giacchino 3000, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Acevedo 1864": {
+    "lat": -34.7383918,
+    "lon": -58.3967418,
+    "display": "1864, Manuel Acevedo, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Acevedo 1864, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Agustin Magaldi 3954": {
+    "lat": -34.7310684,
+    "lon": -58.4796212,
+    "display": "Agustín Magaldi, Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Agustin Magaldi 3954, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Alazan E/ Santos Vega S/N": {
+    "lat": -34.638715,
+    "lon": -58.7863761,
+    "display": "Santos Vega, B1744, Moreno, Buenos Aires, Argentina",
+    "query": "Alazan E/ Santos Vega S/N, Gran Buenos Aires, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Albarracín 911": {
+    "lat": -34.7759648,
+    "lon": -58.3888839,
+    "display": "911, Santiago Albarracín, Temperley, Partido de Lomas de Zamora, Buenos Aires, 1834, Argentina",
+    "query": "Albarracín 911, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Alberto Larroque 150": {
+    "lat": -34.7452523,
+    "lon": -58.3971841,
+    "display": "150, Avenida Alberto Larroque, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Alberto Larroque 150, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Allemandri 1501": {
+    "lat": -34.765873,
+    "lon": -58.378362,
+    "display": "1501, Próspero Allemandri, Temperley, Partido de Lomas de Zamora, Buenos Aires, 1835, Argentina",
+    "query": "Allemandri 1501, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Alsina 1052": {
+    "lat": -34.7450554,
+    "lon": -58.3933776,
+    "display": "Alsina, Avenida Alsina, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Alsina 1052, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Alvear 1715": {
+    "lat": -34.7389709,
+    "lon": -58.403935,
+    "display": "1715, General Carlos María de Alvear, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Alvear 1715, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Alvear 563": {
+    "lat": -34.7529442,
+    "lon": -58.4068783,
+    "display": "563, General Carlos María de Alvear, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1828, Argentina",
+    "query": "Alvear 563, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Anchorena 1460": {
+    "lat": -34.7652401,
+    "lon": -58.3796219,
+    "display": "1460, Anchorena, Temperley, Partido de Lomas de Zamora, Buenos Aires, 1835, Argentina",
+    "query": "Anchorena 1460, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Anchoris 4566 Temperley Este": {
+    "lat": -34.7633164,
+    "lon": -58.3756688,
+    "display": "Anchorena, 1835, Temperley, Buenos Aires, Argentina",
+    "query": "Anchorena 4566 Temperley Este, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Andres Bello 2763": {
+    "lat": -34.7251236,
+    "lon": -58.4624131,
+    "display": "Andrés Bello, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Andres Bello 2763, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Angel Gallardo 170": {
+    "lat": -34.7693733,
+    "lon": -58.3952308,
+    "display": "Escuela Primaria 36, 170, Ángel Gallardo, Temperley, Partido de Lomas de Zamora, Buenos Aires, 1834, Argentina",
+    "query": "Angel Gallardo 170, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Antartida Argentina y Santa Catalina": {
+    "lat": -34.8146657,
+    "lon": -58.4321209,
+    "display": "Ruta 4 y Dávila, Santa Catalina, 1838, Santa Catalina, Llavallol, Buenos Aires, Argentina",
+    "query": "esquina Antártida Argentina y Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Antonio Machado 2546": {
+    "lat": -34.7148563,
+    "lon": -58.465824,
+    "display": "2546, Antonio Machado, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Antonio Machado 2546, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Araguaya 957": {
+    "lat": -34.7883504,
+    "lon": -58.4208008,
+    "display": "Araguaya, Llavallol, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "Araguaya 957, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Aragón 950": {
+    "lat": -34.7881313,
+    "lon": -58.419635,
+    "display": "Aragón, Llavallol, Partido de Lomas de Zamora, Buenos Aires, 1836, Argentina",
+    "query": "Aragón 950, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Araoz 1450": {
+    "lat": -34.733857,
+    "lon": -58.41478,
+    "display": "1450, Aráoz, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Araoz 1450, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Armesti 3345": {
+    "lat": -34.7427862,
+    "lon": -58.3505617,
+    "display": "3345, Boulevard Armesti, San José, Partido de Lomas de Zamora, Buenos Aires, B1826FCL, Argentina",
+    "query": "Armesti 3345, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Av Antartida Argentina 2750": {
+    "lat": -34.7896444,
+    "lon": -58.4090933,
+    "display": "Avenida Antártida Argentina, Turdera, Partido de Lomas de Zamora, Buenos Aires, B1833, Argentina",
+    "query": "Av Antartida Argentina 2750, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Av Antártida Argentina 2251": {
+    "lat": -34.7896444,
+    "lon": -58.4090933,
+    "display": "Avenida Antártida Argentina, Turdera, Partido de Lomas de Zamora, Buenos Aires, B1833, Argentina",
+    "query": "Av Antártida Argentina 2251, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Av José Garibaldi 1256": {
+    "lat": -34.7693708,
+    "lon": -58.4015001,
+    "display": "Av. José Garibaldi, Temperley, Partido de Lomas de Zamora, Buenos Aires, B1832DEF, Argentina",
+    "query": "Av José Garibaldi 1256, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Av. Alsina 1052": {
+    "lat": -34.7488176,
+    "lon": -58.3940788,
+    "display": "1052, Avenida Alsina, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Av. Alsina 1052, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Av. Antártida Argentina y Santa Catalina": {
+    "lat": -34.7497312,
+    "lon": -58.4757182,
+    "display": "Pizzeria y Hamburgueseria, Avenida General Juan Facundo Quiroga, 1839, Avenida General Juan Facundo Quiroga, Buenos Aires, Argentina",
+    "query": "esquina Av. Antártida Argentina y Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Av. Eva Perón y Albarracín": {
+    "lat": -34.7758929,
+    "lon": -58.389098,
+    "display": "Eva Perón y Albarracín, Avenida Eva Perón, 1834, Avenida Eva Perón, Temperley, Buenos Aires, Argentina",
+    "query": "esquina Av. Eva Perón y Albarracín, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Av. Hipólito Yrigoyen 10361": {
+    "lat": -34.7775072,
+    "lon": -58.4059369,
+    "display": "10361, Avenida Hipólito Yrigoyen, Temperley, Partido de Lomas de Zamora, Buenos Aires, B1834, Argentina",
+    "query": "Av. Hipólito Yrigoyen 10361, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Av. Hipólito Yrigoyen 7672": {
+    "lat": -34.7445677,
+    "lon": -58.3990646,
+    "display": "E.P. 31\"Carlos Guido Y Spano\", 7672, Avenida Hipólito Yrigoyen, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Av. Hipólito Yrigoyen 7672, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Av. Meeks 778": {
+    "lat": -34.7615463,
+    "lon": -58.3983414,
+    "display": "Avenida Meeks, Lomitas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832AHQ, Argentina",
+    "query": "Av. Meeks 778, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Avenida Elizalde 3971": {
+    "lat": -34.7458289,
+    "lon": -58.4839823,
+    "display": "Avenida Doctor Gilberto Elizalde, Santa Catalina, 9 de Abril, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Avenida Elizalde 3971, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Avenida Pasco 4687": {
+    "lat": -34.7627085,
+    "lon": -58.3641252,
+    "display": "Avenida Eva Perón, San José, Partido de Lomas de Zamora, Buenos Aires, 1844, Argentina",
+    "query": "Avenida Pasco 4687, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Ayolas 1135": {
+    "lat": -34.708243,
+    "lon": -58.4365432,
+    "display": "Ayolas, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Ayolas 1135, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Azamor 232": {
+    "lat": -34.7117377,
+    "lon": -58.4620268,
+    "display": "Azamor, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Azamor 232, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Azamor 297": {
+    "lat": -34.7153972,
+    "lon": -58.4685876,
+    "display": "Azamor, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1772, Argentina",
+    "query": "Azamor 297, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Año del Libertador 206": {
+    "lat": -34.7731711,
+    "lon": -58.442131,
+    "display": "Año del Libertador, Parque Barón, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "Año del Libertador 206, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:B.P. GaldosS 1998": {
+    "lat": -34.7083792,
+    "lon": -58.4490397,
+    "display": "Benito Pérez Galdós, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Benito Pérez Galdós 1998, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Barbieri 1605": {
+    "lat": -34.7380052,
+    "lon": -58.4351644,
+    "display": "Vicente Barbieri, Barrio ODISA, Santa Marta, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Barbieri 1605, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Barcelona 1957": {
+    "lat": -34.7335363,
+    "lon": -58.4448484,
+    "display": "1957, Barcelona, Villa Albertina, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Barcelona 1957, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Barilari 3592": {
+    "lat": -34.7475871,
+    "lon": -58.3643753,
+    "display": "Barilari, San José, Partido de Lomas de Zamora, Buenos Aires, B1826FCL, Argentina",
+    "query": "Barilari 3592, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Belgrano 1645": {
+    "lat": -34.7432754,
+    "lon": -58.3916316,
+    "display": "1645, Belgrano, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Belgrano 1645, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Belén 1490": {
+    "lat": -34.7483348,
+    "lon": -58.4434372,
+    "display": "1490, Belén, Santa Marta, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Belén 1490, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Bernardo de Irigoyen 750": {
+    "lat": -34.7690999,
+    "lon": -58.3848868,
+    "display": "Escuela N 69 República de Italia, 750, Bernardo de Irigoyen, Temperley, Partido de Lomas de Zamora, Buenos Aires, 1834, Argentina",
+    "query": "Bernardo de Irigoyen 750, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Bolonia 655": {
+    "lat": -34.7220859,
+    "lon": -58.4325885,
+    "display": "655, Bolonia, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Bolonia 655, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Boulogne Sur Mer 240": {
+    "lat": -34.7504698,
+    "lon": -58.3715004,
+    "display": "Escuela Primaria N* 28, 240, Boulogne Sur Mer, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Boulogne Sur Mer 240, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Bruno Tavano 3870": {
+    "lat": -34.72963105319149,
+    "lon": -58.46456429148936,
+    "display": "3870, Intendente Juan B. Tavano, B1839FDK, Intendente Juan B. Tavano, Buenos Aires, Argentina",
+    "query": "Intendente Juan B. Tavano 3870, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Bucarest 1722": {
+    "lat": -34.7259688,
+    "lon": -58.4466946,
+    "display": "1722, Bucarest, Villa Albertina, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Bucarest 1722, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Bucarest 1723": {
+    "lat": -34.725796,
+    "lon": -58.4468535,
+    "display": "1723, Bucarest, Villa Albertina, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Bucarest 1723, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Bucarest 1780": {
+    "lat": -34.7262642,
+    "lon": -58.4472674,
+    "display": "1780, Bucarest, Villa Albertina, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Bucarest 1780, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Bustos 860": {
+    "lat": -34.760679,
+    "lon": -58.4474744,
+    "display": "860, Bustos, Parque Barón, Partido de Lomas de Zamora, Buenos Aires, 1839, Argentina",
+    "query": "Bustos 860, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Bustos 890": {
+    "lat": -34.7604075,
+    "lon": -58.4476759,
+    "display": "890, Bustos, Parque Barón, Partido de Lomas de Zamora, Buenos Aires, 1839, Argentina",
+    "query": "Bustos 890, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:C.C.Vigil 1059": {
+    "lat": -34.7626189,
+    "lon": -58.4361466,
+    "display": "Constancio C. Vigil & Eduardo Schiaffino, Constancio C. Vigil, Parque Barón, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "C.C.Vigil 1059, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Calle 109 Nº 1340": {
+    "lat": -34.7507727,
+    "lon": -58.4653111,
+    "display": "Calle 109, Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, 1839, Argentina",
+    "query": "Calle 109 Nº 1340, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Campana 1216": {
+    "lat": -34.7053968,
+    "lon": -58.4417674,
+    "display": "Campana, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Campana 1216, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Campana 360 Fiorito": {
+    "lat": -34.7053968,
+    "lon": -58.4417674,
+    "display": "Campana, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Campana 360 Fiorito, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Campana 524/534": {
+    "lat": -34.7527522,
+    "lon": -58.4082001,
+    "display": "Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "query": "Campana 524, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Campoamor 2637": {
+    "lat": -34.7093195,
+    "lon": -58.4590025,
+    "display": "2637, Ramón de Campoamor, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Campoamor 2637, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Campoamor 2789": {
+    "lat": -34.7074748,
+    "lon": -58.4604916,
+    "display": "2789, Ramón de Campoamor, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Campoamor 2789, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Campos 122": {
+    "lat": -34.755464,
+    "lon": -58.378257,
+    "display": "122, General Campos, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1835, Argentina",
+    "query": "Campos 122, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Campos 145 - 1ºpiso": {
+    "lat": -34.755195489361704,
+    "lon": -58.37815375531915,
+    "display": "145, General Campos, 1828, General Campos, Banfield, Buenos Aires, Argentina",
+    "query": "Campos 145 - 1opiso, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Caraza 1760": {
+    "lat": -34.7340955,
+    "lon": -58.4258247,
+    "display": "Escuela Primaria N* 39, 1760, Eduardo Caraza, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Caraza 1760, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Castelli 816": {
+    "lat": -34.7526559,
+    "lon": -58.4071969,
+    "display": "Escuela Secundaria Básica Nº8, 816, Juan José Castelli, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Castelli 816, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Castelli 840": {
+    "lat": -34.7524762,
+    "lon": -58.407524,
+    "display": "840, Juan José Castelli, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Castelli 840, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Celina de Minetto 1455": {
+    "lat": -34.73714012765957,
+    "lon": -58.433304265957446,
+    "display": "1455, Celina L. de Minetto, B1828HGV, Celina L. de Minetto, Villa Centenario, Buenos Aires, Argentina",
+    "query": "Celina de Minetto 1455, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Champalanne 2608": {
+    "lat": -34.7535491,
+    "lon": -58.4406953,
+    "display": "2608, Federico Champalanne, Parque Barón, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Champalanne 2608, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Chopin 350": {
+    "lat": -34.7519081,
+    "lon": -58.4323987,
+    "display": "Instituto San Alberto Magno, 350, Frederic Chopin, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, 1832, Argentina",
+    "query": "Chopin 350, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Cid guido de franc 2520": {
+    "lat": -34.748312908510634,
+    "lon": -58.44368500851064,
+    "display": "2520, Profesor Cid Guidi de Franc, B1828HGV, Profesor Cid Guidi de Franc, Buenos Aires, Argentina",
+    "query": "Cid Campeador 2520, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Cipolleti y Machado": {
+    "lat": -34.7788398,
+    "lon": -58.383425,
+    "display": "Esquina Pablo y Norma Musso, Triunvirato, 1834, Triunvirato, Temperley, Buenos Aires, Argentina",
+    "query": "esquina Cipolleti y Machado, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Cipolletti e/ R. Palma y": {
+    "lat": -34.7613924,
+    "lon": -58.3935392,
+    "display": "Red de Ciclovías y Bicisenda de Lomas de Zamora (ESTE), B1832AHQ, Lomas de Zamora, Buenos Aires, Argentina",
+    "query": "Cipolletti e/ R. Palma y, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Cuyo 1111": {
+    "lat": -34.8025378,
+    "lon": -58.4090888,
+    "display": "Cuyo, Llavallol, Partido de Lomas de Zamora, Buenos Aires, B1846AAQ, Argentina",
+    "query": "Cuyo 1111, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:De Heredia 250": {
+    "lat": -34.7711501,
+    "lon": -58.3607551,
+    "display": "José María de Heredia, San José, Partido de Lomas de Zamora, Buenos Aires, 1844, Argentina",
+    "query": "De Heredia 250, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:De Heredia y Juramento 250": {
+    "lat": -34.7758816,
+    "lon": -58.3971199,
+    "display": "Temperley, Buenos Aires, Argentina",
+    "query": "De Heredia 250, Temperley, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Dr Carlos Piocollivadino 267": {
+    "lat": -34.75817462340425,
+    "lon": -58.38674770425532,
+    "display": "267, Ignacio Pirovano, 1832, Ignacio Pirovano, Lomas de Zamora, Buenos Aires, Argentina",
+    "query": "Dr Carlos Pirovano 267, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Dr. Melber 2050": {
+    "lat": -34.8080774,
+    "lon": -58.424879,
+    "display": "Doctor Jorge Melber, Llavallol, Partido de Lomas de Zamora, Buenos Aires, 1851, Argentina",
+    "query": "Dr. Melber 2050, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Dr. Melber 2070": {
+    "lat": -34.8080774,
+    "lon": -58.424879,
+    "display": "Doctor Jorge Melber, Llavallol, Partido de Lomas de Zamora, Buenos Aires, 1851, Argentina",
+    "query": "Dr. Melber 2070, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Einstein 4247 Lamadrid": {
+    "lat": -34.7308463,
+    "lon": -58.4751538,
+    "display": "4247, Albert Einstein, Villa Lamadrid, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Einstein 4247 Lamadrid, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Ejercto de los Andes 1318": {
+    "lat": -34.721747593617025,
+    "lon": -58.44322211276595,
+    "display": "1318, Ejército de los Andes, 1827, Ejército de los Andes, Villa Centenario, Buenos Aires, Argentina",
+    "query": "Ejército de los Andes 1318, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:El Plumerillo 769": {
+    "lat": -34.7209775,
+    "lon": -58.428858,
+    "display": "769, El Plumerillo, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "El Plumerillo 769, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:El Tordo 233": {
+    "lat": -34.7603175,
+    "lon": -58.3535844,
+    "display": "El Tordo, San José, Partido de Lomas de Zamora, Buenos Aires, 1844, Argentina",
+    "query": "El Tordo 233, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:El Tordo 459": {
+    "lat": -34.7603175,
+    "lon": -58.3535844,
+    "display": "El Tordo, San José, Partido de Lomas de Zamora, Buenos Aires, 1844, Argentina",
+    "query": "El Tordo 459, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:El Trébol 3785": {
+    "lat": -34.761152,
+    "lon": -58.3671271,
+    "display": "El Trébol, San José, Partido de Lomas de Zamora, Buenos Aires, 1835, Argentina",
+    "query": "El Trébol 3785, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:El Zorzal 2093": {
+    "lat": -34.7698072,
+    "lon": -58.3697119,
+    "display": "Escuela n.° 47 \"Estados Unidos Mexicanos\", 2093, El Zorzal, Temperley, Partido de Lomas de Zamora, Buenos Aires, 1834, Argentina",
+    "query": "El Zorzal 2093, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:El Zorzal 2779": {
+    "lat": -34.7607873,
+    "lon": -58.3523241,
+    "display": "El Zorzal, San José, Partido de Lomas de Zamora, Buenos Aires, B1844, Argentina",
+    "query": "El Zorzal 2779, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:El Zorzal 2793": {
+    "lat": -34.7607873,
+    "lon": -58.3523241,
+    "display": "El Zorzal, San José, Partido de Lomas de Zamora, Buenos Aires, B1844, Argentina",
+    "query": "El Zorzal 2793, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:El hornero 4960": {
+    "lat": -34.7587586,
+    "lon": -58.3515942,
+    "display": "El Hornero, San José, Partido de Lomas de Zamora, Buenos Aires, B1844, Argentina",
+    "query": "El hornero 4960, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:El hornero 4975": {
+    "lat": -34.7587586,
+    "lon": -58.3515942,
+    "display": "El Hornero, San José, Partido de Lomas de Zamora, Buenos Aires, B1844, Argentina",
+    "query": "El hornero 4975, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Espronceda 150": {
+    "lat": -34.7388792,
+    "lon": -58.4435356,
+    "display": "E. P. N° 96 \"Victoria Ocampo\", 150, José Espronceda, Villa Albertina, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Espronceda 150, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Espronceda 199": {
+    "lat": -34.737921,
+    "lon": -58.443867,
+    "display": "199, José Espronceda, Villa Albertina, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Espronceda 199, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Espronceneda 297": {
+    "lat": -34.7368309,
+    "lon": -58.4446973,
+    "display": "297, José Espronceda, Villa Albertina, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Espronceda 297, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Euskadi 2949": {
+    "lat": -34.7381481,
+    "lon": -58.4609585,
+    "display": "2949, Euskadi, Villa Albertina, Partido de Lomas de Zamora, Buenos Aires, 1839, Argentina",
+    "query": "Euskadi 2949, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Facundo Quiroga 1370": {
+    "lat": -34.7484838,
+    "lon": -58.473543,
+    "display": "Avenida General Juan Facundo Quiroga, Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, 1839, Argentina",
+    "query": "Facundo Quiroga 1370, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Facundo Quiroga 1370 Santa Catalina": {
+    "lat": -34.7484838,
+    "lon": -58.473543,
+    "display": "Avenida General Juan Facundo Quiroga, Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, 1839, Argentina",
+    "query": "Facundo Quiroga 1370 Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Figueredo 1525": {
+    "lat": -34.7100276,
+    "lon": -58.4559332,
+    "display": "1525, Figueredo, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Figueredo 1525, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Florencio Sanchez 1270": {
+    "lat": -34.7481456,
+    "lon": -58.4465936,
+    "display": "Florencio Sánchez, Santa Marta, Partido de Lomas de Zamora, Buenos Aires, 1839, Argentina",
+    "query": "Florencio Sanchez 1270, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Gabriel Miro 2450": {
+    "lat": -34.7099959,
+    "lon": -58.4507691,
+    "display": "Gabriel Miró, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Gabriel Miro 2450, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Gabriel Miro 2480": {
+    "lat": -34.7099959,
+    "lon": -58.4507691,
+    "display": "Gabriel Miró, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Gabriel Miro 2480, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Gabriel Miró 944": {
+    "lat": -34.7241926,
+    "lon": -58.439518,
+    "display": "944, Gabriel Miró, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Gabriel Miró 944, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Gabriela Mistral 312": {
+    "lat": -34.7295589,
+    "lon": -58.4205511,
+    "display": "312, Gabriela Mistral, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Gabriela Mistral 312, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Garibaldi 1298": {
+    "lat": -34.7715417,
+    "lon": -58.4056323,
+    "display": "Av. José Garibaldi, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1834GMJ, Argentina",
+    "query": "Garibaldi 1298, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Garibaldi 253": {
+    "lat": -34.7689433,
+    "lon": -58.4010141,
+    "display": "253, José Garibaldi, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, 1832, Argentina",
+    "query": "Garibaldi 253, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Gascon 150": {
+    "lat": -34.7470736,
+    "lon": -58.3930963,
+    "display": "150, Gascón, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Gascon 150, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Gilberto Elizalde 3971": {
+    "lat": -34.7458289,
+    "lon": -58.4839823,
+    "display": "Avenida Doctor Gilberto Elizalde, Santa Catalina, 9 de Abril, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Gilberto Elizalde 3971, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Golondrina 3607": {
+    "lat": -34.761423,
+    "lon": -58.35192,
+    "display": "La Golondrina, San José, Partido de Lomas de Zamora, Buenos Aires, B1844, Argentina",
+    "query": "Golondrina 3607, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Gral Campos 145": {
+    "lat": -34.755195489361704,
+    "lon": -58.37815375531915,
+    "display": "145, General Campos, 1828, General Campos, Banfield, Buenos Aires, Argentina",
+    "query": "Gral Campos 145, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Gral Elizalde s/n y Calle 7": {
+    "lat": -34.7758816,
+    "lon": -58.3971199,
+    "display": "Temperley, Buenos Aires, Argentina",
+    "query": "Calle 7, Temperley, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Hipolito Yrigoyen 9428": {
+    "lat": -34.7654586,
+    "lon": -58.4034059,
+    "display": "Escuela Secundaria 13 Perito Moreno, 9428, Avenida Hipólito Yrigoyen, Lomitas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Hipolito Yrigoyen 9428, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Hipólito Yrigoyen 7731": {
+    "lat": -34.7453466,
+    "lon": -58.3995995,
+    "display": "7731, Avenida Hipólito Yrigoyen, Banfield, Partido de Lomas de Zamora, Buenos Aires, B1828, Argentina",
+    "query": "Hipólito Yrigoyen 7731, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Hipólito Yrigoyen 9243": {
+    "lat": -34.7633025,
+    "lon": -58.4033619,
+    "display": "9243, Avenida Hipólito Yrigoyen, Lomitas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Hipólito Yrigoyen 9243, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Hiólito Yrigoyen 11518": {
+    "lat": -34.7912111,
+    "lon": -58.4084651,
+    "display": "Escuela de Educación Secundaria 41, 11518, Avenida Hipólito Yrigoyen, B1833, Avenida Hipólito Yrigoyen, Turdera, Buenos Aires, Argentina",
+    "query": "Hiólito Yrigoyen 11518, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Homero 2185": {
+    "lat": -34.7440597,
+    "lon": -58.4553164,
+    "display": "2185, Homero, Villa Albertina, Partido de Lomas de Zamora, Buenos Aires, 1839, Argentina",
+    "query": "Homero 2185, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Homero 3780": {
+    "lat": -34.7309948,
+    "lon": -58.4652096,
+    "display": "3780, Homero, Villa Lamadrid, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Homero 3780, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Homero 3870": {
+    "lat": -34.7302635,
+    "lon": -58.4657889,
+    "display": "3870, Homero, Villa Lamadrid, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Homero 3870, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Homero Manzi 3954": {
+    "lat": -34.7413307,
+    "lon": -58.4692693,
+    "display": "Homero Manzi, Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Homero Manzi 3954, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Homero y Cafayate": {
+    "lat": -34.7223256,
+    "lon": -58.4645076,
+    "display": "Granja y Carnicería Homero, Andrés Bello, 1827, Andrés Bello, Ingeniero Budge, Buenos Aires, Argentina",
+    "query": "esquina Homero y Cafayate, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Huergo 40": {
+    "lat": -34.7808214,
+    "lon": -58.411593,
+    "display": "Ingeniero Huergo, Temperley, Partido de Lomas de Zamora, Buenos Aires, B1834, Argentina",
+    "query": "Huergo 40, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Indalecio Gomez 502": {
+    "lat": -34.779597,
+    "lon": -58.381716,
+    "display": "502, Indalecio Gómez, Temperley, Partido de Lomas de Zamora, Buenos Aires, 1834, Argentina",
+    "query": "Indalecio Gomez 502, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Islandia 650": {
+    "lat": -34.7183016,
+    "lon": -58.4423069,
+    "display": "Islandia, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Islandia 650, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:J.M. Pena 99": {
+    "lat": -34.7494129,
+    "lon": -58.3944716,
+    "display": "99, Peña, 1828, Peña, Banfield, Buenos Aires, Argentina",
+    "query": "J.M. Pena 99, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Jacinto Benavente 498": {
+    "lat": -34.7600346,
+    "lon": -58.4342658,
+    "display": "498, Jacinto Benavente, Parque Barón, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "Jacinto Benavente 498, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Jesús R. Olivan (ex México) 163": {
+    "lat": -34.76537595319149,
+    "lon": -58.36525956382979,
+    "display": "163, Avenida República Argentina, 1844, Avenida República Argentina, San José, Buenos Aires, Argentina",
+    "query": "Jesús R. Olivan 163, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Jose Maria Penna 93": {
+    "lat": -34.7581944,
+    "lon": -58.4109198,
+    "display": "93, Doctor José María Penna, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Jose Maria Penna 93, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Jose Maria Penna 99": {
+    "lat": -34.7582647,
+    "lon": -58.4108071,
+    "display": "Escuela Primaria 21, 99, Doctor José María Penna, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, 1832, Argentina",
+    "query": "Jose Maria Penna 99, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:José de Espronceda 150": {
+    "lat": -34.7388792,
+    "lon": -58.4435356,
+    "display": "E. P. N° 96 \"Victoria Ocampo\", 150, José Espronceda, Villa Albertina, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "José de Espronceda 150, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Juan Bucetich E/ Pergamino 4834": {
+    "lat": -34.7268364,
+    "lon": -58.4800984,
+    "display": "Escuela primaria 87, 4834, Juan Vucetich, B1839FDK, Juan Vucetich, Villa Albertina, Buenos Aires, Argentina",
+    "query": "Juan Bucetich E/ Pergamino 4834, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Juan José Castelli 1710": {
+    "lat": -34.7506424,
+    "lon": -58.4198362,
+    "display": "1710, Juan José Castelli, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Juan José Castelli 1710, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Juan Vucetich 4834": {
+    "lat": -34.7268364,
+    "lon": -58.4800984,
+    "display": "Escuela primaria 87, 4834, Juan Vucetich, Villa Lamadrid, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Juan Vucetich 4834, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Juan Zamora y Gabriela Mistral 653": {
+    "lat": -34.7760296,
+    "lon": -58.396796,
+    "display": "Estación Lomas de Zamora, Juan B. Péreuilh, 1834, Juan B. Péreuilh, Temperley, Buenos Aires, Argentina",
+    "query": "Juan Zamora 653, Temperley, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Juncal 240": {
+    "lat": -34.7692992,
+    "lon": -58.3948739,
+    "display": "240, Juncal, Temperley, Partido de Lomas de Zamora, Buenos Aires, B1832DEF, Argentina",
+    "query": "Juncal 240, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:La Calandria 4654": {
+    "lat": -34.7653174,
+    "lon": -58.3666868,
+    "display": "La Calandria, San José, Partido de Lomas de Zamora, Buenos Aires, 1844, Argentina",
+    "query": "La Calandria 4654, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:La Haya 2155": {
+    "lat": -34.7291193,
+    "lon": -58.4517145,
+    "display": "2155, La Haya, Villa Albertina, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "La Haya 2155, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:La Haya 2195": {
+    "lat": -34.7293218,
+    "lon": -58.4520986,
+    "display": "2195, La Haya, Villa Albertina, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "La Haya 2195, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:La Madreselva 2550": {
+    "lat": -34.7583434,
+    "lon": -58.3669697,
+    "display": "La Madreselva, San José, Partido de Lomas de Zamora, Buenos Aires, 1835, Argentina",
+    "query": "La Madreselva 2550, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:La madreselva 2550": {
+    "lat": -34.7583434,
+    "lon": -58.3669697,
+    "display": "La Madreselva, San José, Partido de Lomas de Zamora, Buenos Aires, 1835, Argentina",
+    "query": "La madreselva 2550, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Laprida 1573": {
+    "lat": -34.7579547,
+    "lon": -58.419562,
+    "display": "1573, Francisco Narciso de Laprida, Lomitas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, 1870, Argentina",
+    "query": "Laprida 1573, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Laprida 1650": {
+    "lat": -34.7298585,
+    "lon": -58.4834842,
+    "display": "Raúl Llobera, Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Laprida 1650, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Larrazabal 2879 Fiorito": {
+    "lat": -34.6974909,
+    "lon": -58.4445135,
+    "display": "Escuela Primaria 98, 2879, Larrazábal, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1832, Argentina",
+    "query": "Larrazabal 2879 Fiorito, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Larroque 2175": {
+    "lat": -34.7409839,
+    "lon": -58.4266814,
+    "display": "Escuela Secundaria 4 - Parques Nacionales, 2175, Alberto Larroque, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Larroque 2175, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Larroque 2200": {
+    "lat": -34.7433427,
+    "lon": -58.4100662,
+    "display": "Avenida Alberto Larroque, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Larroque 2200, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Las Heras 2203": {
+    "lat": -34.745958,
+    "lon": -58.4260827,
+    "display": "2203, Avenida Juan Gregorio de las Heras, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Las Heras 2203, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Las Tropas 1711": {
+    "lat": -34.7498391,
+    "lon": -58.4281883,
+    "display": "Las Tropas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Las Tropas 1711, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Las Tropas y Vernet 1700": {
+    "lat": -34.7498391,
+    "lon": -58.4281883,
+    "display": "Las Tropas, B1828HGV, Lomas de Zamora, Buenos Aires, Argentina",
+    "query": "Las Tropas 1700, Temperley, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Lavalle 801": {
+    "lat": -34.7765862,
+    "lon": -58.4084325,
+    "display": "Escuela de Educación Secundaria Técnica 2, 801, General Juan Galo de Lavalle, Temperley, Partido de Lomas de Zamora, Buenos Aires, B1834GMJ, Argentina",
+    "query": "Lavalle 801, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Lavalle 851": {
+    "lat": -34.7767627,
+    "lon": -58.4089844,
+    "display": "Centro de Formación Integral 1, 851, General Juan Galo de Lavalle, Temperley, Partido de Lomas de Zamora, Buenos Aires, B1834GMJ, Argentina",
+    "query": "Lavalle 851, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Lavalle 879": {
+    "lat": -34.7769976,
+    "lon": -58.4092747,
+    "display": "Jardín de Infantes 911 Germán Berdiales, 879, General Juan Galo de Lavalle, Temperley, Partido de Lomas de Zamora, Buenos Aires, B1834GMJ, Argentina",
+    "query": "Lavalle 879, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Lavarden 195": {
+    "lat": -34.7418177,
+    "lon": -58.4512796,
+    "display": "195, Manuel José de Lavardén, Villa Albertina, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Lavarden 195, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Lisandro de la Torre 2264": {
+    "lat": -34.7501518,
+    "lon": -58.4423703,
+    "display": "Lisandro de la Torre, Santa Marta, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Lisandro de la Torre 2264, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Llaroque 1231": {
+    "lat": -34.7394312,
+    "lon": -58.4328766,
+    "display": "Larroque, Autopista Camino Negro, Santa Marta, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Larroque 1231, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Lope de Vega 1070": {
+    "lat": -34.7452189,
+    "lon": -58.4471356,
+    "display": "Lope de Vega, Santa Marta, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Lope de Vega 1070, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Los Palos Borrachos 185": {
+    "lat": -34.764883,
+    "lon": -58.431608,
+    "display": "Los Palos Borrachos, Parque Barón, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "Los Palos Borrachos 185, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Los Robles 108": {
+    "lat": -34.7652091,
+    "lon": -58.4315099,
+    "display": "Escuela Paula Albarracín de Sarmiento, 108, Los Robles, Parque Barón, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, 1832, Argentina",
+    "query": "Los Robles 108, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Luis Siciliano 1551": {
+    "lat": -34.7392064,
+    "lon": -58.4289076,
+    "display": "1551, Luis Siciliano, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Luis Siciliano 1551, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:MIguel Cané 1264": {
+    "lat": -34.749442,
+    "lon": -58.379099,
+    "display": "1264, Miguel Cané, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "MIguel Cané 1264, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Manuel Castro 161": {
+    "lat": -34.7582812,
+    "lon": -58.4035202,
+    "display": "161, Senador Manuel Castro, Lomitas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Manuel Castro 161, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Manuel Castro 990": {
+    "lat": -34.7487797,
+    "lon": -58.4024221,
+    "display": "Ensam, 990, Senador Manuel Castro, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1832, Argentina",
+    "query": "Manuel Castro 990, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Manuela Pedraza 3280": {
+    "lat": -34.7459645,
+    "lon": -58.4698924,
+    "display": "Manuela Pedraza, Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, 1839, Argentina",
+    "query": "Manuela Pedraza 3280, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Mario Bravo 2133": {
+    "lat": -34.7024082,
+    "lon": -58.4455352,
+    "display": "Mario Bravo, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Mario Bravo 2133, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Martin Rodriguez 2244": {
+    "lat": -34.7412514,
+    "lon": -58.443969,
+    "display": "2244, Avenida General Martín Rodríguez, Barrio ODISA, Santa Marta, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Martin Rodriguez 2244, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Mascagni 347": {
+    "lat": -34.7517585,
+    "lon": -58.4329611,
+    "display": "347, Pedro Mascagni, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Mascagni 347, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Mascagni 395": {
+    "lat": -34.751326,
+    "lon": -58.4328872,
+    "display": "395, Pedro Mascagni, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Mascagni 395, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Medrano 175": {
+    "lat": -34.7484194,
+    "lon": -58.393011,
+    "display": "175, Medrano, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Medrano 175, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Meeks 778": {
+    "lat": -34.762768,
+    "lon": -58.3985533,
+    "display": "Avenida Meeks, Lomitas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832DEF, Argentina",
+    "query": "Meeks 778, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Mentruyt 1825": {
+    "lat": -34.7611377,
+    "lon": -58.4010405,
+    "display": "Biblioteca Popular Antonio Mentruyt, 44, Italia, Lomitas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, 1832, Argentina",
+    "query": "Mentruyt 1825, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Mercedes 1100": {
+    "lat": -34.807104,
+    "lon": -58.421091,
+    "display": "Mercedes, Llavallol, Partido de Lomas de Zamora, Buenos Aires, 1836, Argentina",
+    "query": "Mercedes 1100, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Mercedes 450": {
+    "lat": -34.807104,
+    "lon": -58.421091,
+    "display": "Mercedes, Llavallol, Partido de Lomas de Zamora, Buenos Aires, 1836, Argentina",
+    "query": "Mercedes 450, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Moctezuma 400": {
+    "lat": -34.7501332,
+    "lon": -58.3485061,
+    "display": "Moctezuma, San José, Partido de Lomas de Zamora, Buenos Aires, B1844, Argentina",
+    "query": "Moctezuma 400, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Moctezuma 498 San Jose Este": {
+    "lat": -34.7501332,
+    "lon": -58.3485061,
+    "display": "Moctezuma, B1844, San José, Buenos Aires, Argentina",
+    "query": "Moctezuma 498 San Jose Este, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Molina Arrotea 1505": {
+    "lat": -34.7662836,
+    "lon": -58.4205757,
+    "display": "1505, Avenida Carlos Molina Arrotea, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1834GMJ, Argentina",
+    "query": "Molina Arrotea 1505, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Monroe 185": {
+    "lat": -34.7509782,
+    "lon": -58.353707,
+    "display": "Monroe, San José, Partido de Lomas de Zamora, Buenos Aires, 1835, Argentina",
+    "query": "Monroe 185, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Monroe 355 Temperley": {
+    "lat": -34.7758816,
+    "lon": -58.3971199,
+    "display": "Temperley, Buenos Aires, Argentina",
+    "query": "Monroe 355 Temperley, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Morazan s/n entre Islandia y Australia": {
+    "lat": -34.7158223,
+    "lon": -58.4379927,
+    "display": "Islandia & Francisco de Morazan, Francisco de Morazán, 1827, Francisco de Morazán, Villa Fiorito, Buenos Aires, Argentina",
+    "query": "Morazán e Islandia, Banfield, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Nestor De La Peña 654": {
+    "lat": -34.7886806,
+    "lon": -58.4295052,
+    "display": "Néstor de la Peña, Llavallol, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "Nestor De La Peña 654, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Núñez de Arce 1296": {
+    "lat": -34.7225621,
+    "lon": -58.4423637,
+    "display": "1296, Gaspar Núñez de Arce, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Núñez de Arce 1296, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Olleros 1004": {
+    "lat": -34.7892076,
+    "lon": -58.4273241,
+    "display": "Olleros, Llavallol, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "Olleros 1004, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Olmos 530": {
+    "lat": -34.7604309,
+    "lon": -58.4480276,
+    "display": "530, Olmos, Parque Barón, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "Olmos 530, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Oran 599": {
+    "lat": -34.7270067,
+    "lon": -58.477407,
+    "display": "Orán, Villa Lamadrid, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Oran 599, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Ostende 1260": {
+    "lat": -34.7241604,
+    "lon": -58.440293,
+    "display": "1260, Ostende, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Ostende 1260, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Ostende y Labarden S/Nro": {
+    "lat": -34.7242316,
+    "lon": -58.4408936,
+    "display": "Ostende & Gaspar Nuñez De Arce, Gaspar Núñez de Arce, 1827, Gaspar Núñez de Arce, Villa Centenario, Buenos Aires, Argentina",
+    "query": "Ostende y Lavarden, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Perito Moreno 260": {
+    "lat": -34.7827965,
+    "lon": -58.3919436,
+    "display": "Escuela De Educación Primaria 40 Mariano Moreno, 260, Perito Francisco Moreno, Temperley, Partido de Lomas de Zamora, Buenos Aires, 1834, Argentina",
+    "query": "Perito Moreno 260, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Piaggio 402": {
+    "lat": -34.7645,
+    "lon": -58.409355,
+    "display": "402, Monseñor Piaggio, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Piaggio 402, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Piedrabuena 209": {
+    "lat": -34.7943731,
+    "lon": -58.4309139,
+    "display": "Piedrabuena, Llavallol, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "Piedrabuena 209, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Pilar 120": {
+    "lat": -34.7024067,
+    "lon": -58.4402477,
+    "display": "Pilar, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Pilar 120, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Pintos 1695": {
+    "lat": -34.7481507,
+    "lon": -58.3741333,
+    "display": "1695, General Pintos, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Pintos 1695, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Pio Baroja 1802": {
+    "lat": -34.7288122,
+    "lon": -58.4342531,
+    "display": "Pío Baroja, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Pio Baroja 1802, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Pio Baroja 2054": {
+    "lat": -34.7112413,
+    "lon": -58.4484172,
+    "display": "Pío Baroja, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Pio Baroja 2054, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Pio Baroja2098": {
+    "lat": -34.7112413,
+    "lon": -58.4484172,
+    "display": "Pío Baroja, Villa Fiorito, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Pío Baroja 2098, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Presidente Perón 4002": {
+    "lat": -34.7635403,
+    "lon": -58.431405,
+    "display": "Presidente Juan Domingo Perón, Parque Barón, Partido de Lomas de Zamora, Buenos Aires, B1836CXJ, Argentina",
+    "query": "Presidente Perón 4002, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Presidente Quintana 266": {
+    "lat": -34.7431142,
+    "lon": -58.3797908,
+    "display": "266, Presidente Quintana, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Presidente Quintana 266, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Pringles 27": {
+    "lat": -34.7761611,
+    "lon": -58.4117487,
+    "display": "Coronel Pringles, Temperley, Partido de Lomas de Zamora, Buenos Aires, B1834GMJ, Argentina",
+    "query": "Pringles 27, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Pto Argentino 1040": {
+    "lat": -34.730277,
+    "lon": -58.4322014,
+    "display": "1040, Puerto Argentino, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Pto Argentino 1040, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Pueyrredón 1840": {
+    "lat": -34.7397238,
+    "lon": -58.3894683,
+    "display": "1840, Pueyrredón, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Pueyrredón 1840, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Quesada 2610": {
+    "lat": -34.7248631,
+    "lon": -58.462946,
+    "display": "2610, Quesada, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Quesada 2610, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Quesada 2672": {
+    "lat": -34.7251971,
+    "lon": -58.4635274,
+    "display": "2672, Quesada, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Quesada 2672, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Quesada 2690": {
+    "lat": -34.7252941,
+    "lon": -58.4636962,
+    "display": "2690, Quesada, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Quesada 2690, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Quilmes 2305": {
+    "lat": -34.7700974,
+    "lon": -58.3657314,
+    "display": "2305, Quilmes, San José, Partido de Lomas de Zamora, Buenos Aires, 1844, Argentina",
+    "query": "Quilmes 2305, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Quintana 266": {
+    "lat": -34.7431142,
+    "lon": -58.3797908,
+    "display": "266, Presidente Quintana, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Quintana 266, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Ramon Falcon 780": {
+    "lat": -34.7668979,
+    "lon": -58.409431,
+    "display": "Escuela Especial 506, 780, Coronel Ramón Falcón, Lomitas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Ramon Falcon 780, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Rawson 2120": {
+    "lat": -34.7381174,
+    "lon": -58.4443079,
+    "display": "2120, Rawson, Villa Albertina, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Rawson 2120, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Rawson Y Espronceneda S/N": {
+    "lat": -34.7585379,
+    "lon": -58.3993654,
+    "display": "Juzgado Federal Criminal y Correccionnal Numero 1 de Lomas de Zamora, Antonio Sáenz, B1832, Antonio Sáenz, Lomas de Zamora, Buenos Aires, Argentina",
+    "query": "Rawson Y Espronceda S/N, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Ricardo Palma 195": {
+    "lat": -34.7385929,
+    "lon": -58.4450646,
+    "display": "195, Ricardo Palma, Villa Albertina, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Ricardo Palma 195, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Ricardo Palma 2351": {
+    "lat": -34.7165816,
+    "lon": -58.4625811,
+    "display": "2351, Ricardo Palma, Ingeniero Budge, Partido de Lomas de Zamora, Buenos Aires, 1827, Argentina",
+    "query": "Ricardo Palma 2351, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Rivera Sur 1750": {
+    "lat": -34.7555515,
+    "lon": -58.4023,
+    "display": "Pedro Ignacio Rivera, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Rivera Sur 1750, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:S. de Bustamante 1530": {
+    "lat": -34.6046332,
+    "lon": -58.4145967,
+    "display": "La casa de soja Argentina, 435, Sánchez de Bustamante, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, 1173, Argentina",
+    "query": "S. de Bustamante 1530, Argentina"
+  },
+  "addr:Saenz 450": {
+    "lat": -34.7580002,
+    "lon": -58.4027798,
+    "display": "450, Antonio Sáenz, Lomitas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Saenz 450, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:San Benito esq. 9 de Julio": {
+    "lat": -34.7555208,
+    "lon": -58.345127,
+    "display": "9 de Julio, B1844, San José, Buenos Aires, Argentina",
+    "query": "San Benito esquina 9 de Julio, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:San Blas 309": {
+    "lat": -34.7884916,
+    "lon": -58.415456,
+    "display": "San Blas, Turdera, Partido de Lomas de Zamora, Buenos Aires, B1833, Argentina",
+    "query": "San Blas 309, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:San Blas 351": {
+    "lat": -34.7839257,
+    "lon": -58.4189399,
+    "display": "San Blas, Temperley, Partido de Lomas de Zamora, Buenos Aires, B1833, Argentina",
+    "query": "San Blas 351, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Santa Cruz y Hornero 290": {
+    "lat": -34.7571452,
+    "lon": -58.3481426,
+    "display": "San Cristobal y El hornero, San Cristobal, B1844, San Cristobal, San José, Buenos Aires, Argentina",
+    "query": "El Hornero 290, San José, Temperley, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Santa Fe 550": {
+    "lat": -34.7511557,
+    "lon": -58.4197747,
+    "display": "550, Avenida Santa Fe, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Santa Fe 550, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Santa Teresa 90": {
+    "lat": -34.7959905,
+    "lon": -58.406546,
+    "display": "Santa Teresa, Turdera, Partido de Lomas de Zamora, Buenos Aires, B1846DGH, Argentina",
+    "query": "Santa Teresa 90, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Santos Vega y Pareta": {
+    "lat": -34.8066373,
+    "lon": -58.4286211,
+    "display": "Santos Vega, 1851, Llavallol, Buenos Aires, Argentina",
+    "query": "Santos Vega y Pareto, Llavallol, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Santos Vega y Pareta sin número Llavallol": {
+    "lat": -34.8066373,
+    "lon": -58.4286211,
+    "display": "Santos Vega, 1851, Llavallol, Buenos Aires, Argentina",
+    "query": "Santos Vega y Pareto, Llavallol, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Senillosa 310": {
+    "lat": -34.7695176,
+    "lon": -58.3693719,
+    "display": "Jardín n.° 924, 310, Senillosa, Temperley, Partido de Lomas de Zamora, Buenos Aires, 1834, Argentina",
+    "query": "Senillosa 310, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Soldado Britos 1451 Santa Catalina": {
+    "lat": -34.7426989,
+    "lon": -58.4693588,
+    "display": "Unidad Sanitaria 2 De Abril De Lomas De Zamora, Soldado M. A. Zelarrayán, 1832, Soldado M. A. Zelarrayán, Buenos Aires, Argentina",
+    "query": "Soldado Britos 1451 Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Soldado Rodriguez 1299": {
+    "lat": -34.7415615,
+    "lon": -58.4724719,
+    "display": "Soldado Víctor Rodríguez, Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Soldado Rodriguez 1299, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Sta Maria de Oro 44": {
+    "lat": -34.7753118,
+    "lon": -58.3951084,
+    "display": "Escuela Media N° 14 Tomás Espora, 44, Fray Justo Santa María de Oro, Temperley, Partido de Lomas de Zamora, Buenos Aires, 1834, Argentina",
+    "query": "Sta Maria de Oro 44, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Suipacha 362": {
+    "lat": -34.7908064,
+    "lon": -58.4093319,
+    "display": "Suipacha, Turdera, Partido de Lomas de Zamora, Buenos Aires, B1833, Argentina",
+    "query": "Suipacha 362, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Supe 1824": {
+    "lat": -34.736825,
+    "lon": -58.4112657,
+    "display": "Supe, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Supe 1824, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Sáenz 450": {
+    "lat": -34.7580002,
+    "lon": -58.4027798,
+    "display": "450, Antonio Sáenz, Lomitas, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, B1832, Argentina",
+    "query": "Sáenz 450, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Vernet 281": {
+    "lat": -34.7297857,
+    "lon": -58.4196105,
+    "display": "281, Vernet, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Vernet 281, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Viamonte 1567": {
+    "lat": -34.7432808,
+    "lon": -58.388239,
+    "display": "Escuela Media Nº6, 1567, J. J. Viamonte, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Viamonte 1567, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Viamonte 423": {
+    "lat": -34.7567616,
+    "lon": -58.3912277,
+    "display": "423, J. J. Viamonte, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, 1832, Argentina",
+    "query": "Viamonte 423, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Viamonte 436": {
+    "lat": -34.7566317,
+    "lon": -58.391327,
+    "display": "436, J. J. Viamonte, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, 1832, Argentina",
+    "query": "Viamonte 436, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Vicente Barbieri 1605": {
+    "lat": -34.7380052,
+    "lon": -58.4351644,
+    "display": "Vicente Barbieri, Barrio ODISA, Santa Marta, Villa Centenario, Partido de Lomas de Zamora, Buenos Aires, B1828HGV, Argentina",
+    "query": "Vicente Barbieri 1605, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Victor Miatello 2061": {
+    "lat": -34.7418035,
+    "lon": -58.4836746,
+    "display": "Doctor Víctor Raúl Miatello, Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "Victor Miatello 2061, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Vieytes 651": {
+    "lat": -34.7392128,
+    "lon": -58.403408,
+    "display": "651, Avenida Juan Hipólito Vieytes, Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina",
+    "query": "Vieytes 651, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Villa Barcelo 480 Banfield Este": {
+    "lat": -34.72478017234043,
+    "lon": -58.427028770212765,
+    "display": "480, Barcelona, 1827, Barcelona, Villa Centenario, Buenos Aires, Argentina",
+    "query": "Villa Barcelona 480 Banfield Este, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Voltaire 1650": {
+    "lat": -34.7498497,
+    "lon": -58.4502093,
+    "display": "Unidad Sanitaria Santa Marta, 1650, Voltaire, Santa Marta, Partido de Lomas de Zamora, Buenos Aires, 1832, Argentina",
+    "query": "Voltaire 1650, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Yatay 500": {
+    "lat": -34.7505021,
+    "lon": -58.3492001,
+    "display": "Yatay, San José, Partido de Lomas de Zamora, Buenos Aires, B1844, Argentina",
+    "query": "Yatay 500, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:las tropas y vernet S/N": {
+    "lat": -34.739903,
+    "lon": -58.4367291,
+    "display": "Vernet & Las Tropas, Las Tropas, B1828HGV, Las Tropas, Buenos Aires, Argentina",
+    "query": "las tropas y Vernet S/N, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:soldado victor rodriguez 1569": {
+    "lat": -34.7415615,
+    "lon": -58.4724719,
+    "display": "Soldado Víctor Rodríguez, Santa Catalina, Partido de Lomas de Zamora, Buenos Aires, B1839FDK, Argentina",
+    "query": "soldado victor rodriguez 1569, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  "addr:Alte Brown 2153": {
+    "lat": -34.76183124255319,
+    "lon": -58.396520314893614,
+    "display": "2153, Almirante Brown, 1832, Almirante Brown, Lomas de Zamora, Buenos Aires, Argentina",
+    "query": "Avenida Almirante Brown 2153, Banfield, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Av. Alte Brown 2129": {
+    "lat": -34.76159410212766,
+    "lon": -58.39650139574468,
+    "display": "2129, Almirante Brown, 1832, Almirante Brown, Lomas de Zamora, Buenos Aires, Argentina",
+    "query": "Avenida Almirante Brown 2129, Banfield, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Avenida Alte Brown 2153": {
+    "lat": -34.76183124255319,
+    "lon": -58.396520314893614,
+    "display": "2153, Almirante Brown, 1832, Almirante Brown, Lomas de Zamora, Buenos Aires, Argentina",
+    "query": "2153, Avenida Almirante Brown, Banfield, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Cipolletti 2202": {
+    "lat": -34.7437455,
+    "lon": -58.3960811,
+    "display": "Banfield, 1828, Buenos Aires, Argentina",
+    "query": "Cipolletti 2202, Banfield, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:F.Sanchéz 1311": {
+    "lat": -34.7873503,
+    "lon": -58.3910264,
+    "display": "Rafael Jijena Sánchez, Temperley, Partido de Lomas de Zamora, Buenos Aires, B1845BZB, Argentina",
+    "query": "F.Sanchéz 1311, Temperley, Buenos Aires, Argentina"
+  },
+  "addr:Juan M. de Lavardén 2472": {
+    "lat": -34.7200159,
+    "lon": -58.4686276,
+    "display": "Juan M. de Lavardén & Baradero, Manuel José de Lavardén, 1771, Manuel José de Lavardén, Buenos Aires, Argentina",
+    "query": "Juan M. de Lavardén 2472, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Muzzili 163": {
+    "lat": -34.7437455,
+    "lon": -58.3960811,
+    "display": "Banfield, 1828, Buenos Aires, Argentina",
+    "query": "Muzzili 163, Banfield, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Olivan 107": {
+    "lat": -34.7527522,
+    "lon": -58.4082001,
+    "display": "Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "query": "Olivan 107, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  },
+  "addr:Pasaje González 40": {
+    "lat": -34.76315005319149,
+    "lon": -58.40399767446809,
+    "display": "40, María F. González, 1870, María F. González, Lomas de Zamora, Buenos Aires, Argentina",
+    "query": "Pasaje González 40, Partido de Lomas de Zamora, Buenos Aires, Argentina",
+    "motor": "photon"
+  }
+}

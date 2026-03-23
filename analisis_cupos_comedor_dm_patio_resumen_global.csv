@@ -1,0 +1,4 @@
+﻿escenario,descripcion,columna_excel,cupos_totales_planilla,n_paradas_con_cupos_mayor_0,n_viajes_camion,horas_conduccion_suma_todos_viajes,horas_totales_suma_viajes_con_ventanas_10min,horas_viaje_mas_largo_individual
+Comedor,Cupos por día de comedor,Cupos por día Comedor,64622,185,19,21.12,48.787,5.521
+Desayuno_merienda,Cupos por día desayuno y merienda (misma columna planilla),Cupos por día Desayuno/Merienda,90925,269,24,28.662,69.495,5.574
+Patios_coros_sabado,Cupos patios abiertos / coros y orquestas sábado,Cupos Patios Abiertos/Coros y Orquestas Sábado,892,17,8,5.282,6.782,1.423

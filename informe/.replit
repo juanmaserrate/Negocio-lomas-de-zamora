@@ -1,0 +1,2 @@
+# Replit: abrir esta carpeta como raíz del Repl o ajustar la ruta.
+run = "cd public && python -m http.server 8080 --bind 0.0.0.0"

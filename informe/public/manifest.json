@@ -1,0 +1,18 @@
+{
+  "name": "Informe de rutas logísticas",
+  "short_name": "Rutas",
+  "description": "Paradas por zona: DMC+vianda, comedor, desayuno/merienda y patios.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#07090e",
+  "theme_color": "#0e1219",
+  "lang": "es-AR",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
