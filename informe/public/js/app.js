@@ -796,8 +796,7 @@
     document.getElementById("tituloPrincipal").textContent = titulo;
     document.title = `${ETIQUETA_TAB[segKey] || segKey} · ${titulo}`;
 
-    document.getElementById("subtituloMeta").textContent =
-      seg.titulo + " — " + (seg.subtitulo || "");
+    document.getElementById("subtituloMeta").textContent = "";
 
     agregarStatsSegmento(seg);
 

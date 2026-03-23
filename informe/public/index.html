@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Informe interactivo de rutas: zonas, viajes y paradas numeradas (DMC+vianda, comedor, desayuno/merienda, patios). Depósito Burzaco." />
+  <meta name="description" content="Informe interactivo de rutas: zonas, viajes y paradas numeradas (DMC, comedor, desayuno/merienda, patios). Depósito Burzaco." />
   <meta name="theme-color" content="#0e1219" />
   <meta name="color-scheme" content="dark" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Informe de rutas logísticas" />
-  <meta property="og:description" content="Paradas por zona con mapa: DMC+vianda, comedor, desayuno/merienda y patios." />
+  <meta property="og:description" content="Paradas por zona con mapa: DMC, comedor, desayuno/merienda y patios." />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Informe de rutas logísticas" />
   <meta name="twitter:description" content="Paradas por zona con mapa interactivo." />
@@ -35,7 +35,21 @@
 
   <header class="glass header">
     <div class="header-inner">
-      <h1 class="logo" id="tituloPrincipal">Informe de rutas</h1>
+      <div class="brand-row">
+        <div class="logo-camion" aria-hidden="true">
+          <div class="ruta-track">
+            <span class="ruta-linea"></span>
+            <div class="camion">
+              <span class="cabina"></span>
+              <span class="caja"></span>
+              <span class="rueda rueda-1"></span>
+              <span class="rueda rueda-2"></span>
+            </div>
+          </div>
+          <span class="brand-label">Real de Catorce</span>
+        </div>
+        <h1 class="logo" id="tituloPrincipal">Informe de rutas</h1>
+      </div>
       <p class="tagline" id="subtituloMeta">Cargando…</p>
     </div>
     <div class="segment-stats glass-inner" id="segmentStats" hidden aria-label="Resumen del segmento activo"></div>

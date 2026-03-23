@@ -141,6 +141,123 @@ body {
   margin-bottom: 1rem;
 }
 
+.brand-row {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.logo-camion {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.4rem 0.55rem;
+  border: 1px solid var(--stroke);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.brand-label {
+  font-size: 0.72rem;
+  color: var(--text);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.ruta-track {
+  position: relative;
+  width: 92px;
+  height: 24px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.28);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  overflow: hidden;
+}
+
+.ruta-linea {
+  position: absolute;
+  left: 8px;
+  right: 8px;
+  top: 50%;
+  height: 2px;
+  transform: translateY(-50%);
+  background: repeating-linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.55) 0 8px,
+    rgba(255, 255, 255, 0.15) 8px 16px
+  );
+}
+
+.camion {
+  position: relative;
+  width: 30px;
+  height: 16px;
+  margin-top: 4px;
+  animation: truck-run 3.2s ease-in-out infinite;
+  will-change: transform;
+}
+
+.camion .caja {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  width: 17px;
+  height: 10px;
+  border-radius: 2px;
+  background: linear-gradient(135deg, rgba(142, 202, 230, 0.95), rgba(144, 224, 239, 0.75));
+}
+
+.camion .cabina {
+  position: absolute;
+  left: 17px;
+  top: 4px;
+  width: 10px;
+  height: 8px;
+  border-radius: 2px;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.camion .rueda {
+  position: absolute;
+  bottom: 0;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #0a0d12;
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  animation: wheel-spin 0.8s linear infinite;
+}
+
+.camion .rueda-1 {
+  left: 4px;
+}
+
+.camion .rueda-2 {
+  left: 19px;
+}
+
+@keyframes truck-run {
+  0%,
+  100% {
+    transform: translateX(4px) translateY(0);
+  }
+  48% {
+    transform: translateX(58px) translateY(-1px);
+  }
+  52% {
+    transform: translateX(58px) scaleX(-1) translateY(-1px);
+  }
+  98% {
+    transform: translateX(4px) scaleX(-1) translateY(0);
+  }
+}
+
+@keyframes wheel-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .logo {
   margin: 0;
   font-size: 1.35rem;
@@ -236,6 +353,10 @@ body {
 
   .panel-map {
     min-height: 360px;
+  }
+
+  .brand-label {
+    display: none;
   }
 }
 
